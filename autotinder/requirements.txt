@@ -1,5 +1,5 @@
 streamlit==0.73.1
 Pillow==9.0.1
-numpy==1.21.0
+numpy==1.22.0
 geopy==2.0.0
 facenet-pytorch==1.0.1
